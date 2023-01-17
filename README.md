@@ -14,5 +14,5 @@
     
     License information: //  
     
-    <img src = "https://github.com/MasterOracleSentinel/PacMan_along-with-_Week-4/tree/main/images/PacMan1.png" width='300' />
+    <img src= "PacMan1.png" width='300' />
 
