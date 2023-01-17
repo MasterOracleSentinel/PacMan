@@ -1,3 +1,7 @@
+<img src= "PacMan1.png" width='300' />
+
+
+
 # PacMan
 
     Name: Coding with PacMan  
@@ -14,5 +18,5 @@
     
     License information: //  
     
-    <img src= "PacMan1.png" width='300' />
+    
 
