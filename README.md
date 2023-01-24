@@ -21,7 +21,7 @@ to assist with solving the problem.
 
 We were instructed to use setTimeout to calculate the movement of PacMan. 
 
-But in the actual code, we were encourage to use setInterval. 
+But in the actual code, we were encouraged to use setInterval. 
 
 
 Using setInterval I structured the function in a different way from how I
